@@ -1,1 +1,3 @@
 #Hi I like to learn more about git :)))
+
+i want to see differences so it is only written in new_...
